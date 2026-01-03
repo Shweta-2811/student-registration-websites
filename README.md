@@ -1,1 +1,1 @@
-# student-registration-websites
+delete README.md
